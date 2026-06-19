@@ -1,88 +1,149 @@
 # Python_practice 🐍
 
-## 📅 Day 01: Variables & Data Types
-
-Today I learned the fundamentals of Python variables, data types, type checking, and type casting.
+A structured Python learning repository documenting my journey from core programming fundamentals to advanced problem-solving and data science concepts through daily hands-on practice.
 
 ---
 
-## 🎯 Topics Covered
+## 📖 Overview
 
+This repository serves as a collection of daily Python exercises, code examples, and concept implementations designed to strengthen programming fundamentals and build a solid foundation for data science, software development, and technical interviews.
+
+---
+
+## 🗺️ Learning Progress
+
+| Day | Topic | Status |
+| :---: | :--- | :---: |
+| 01 | Variables & Data Types | ✅ |
+| 02 | Loops & Functions | ✅ |
+| 03 | Lists & List Operations | ✅ |
+| 04 | Tuples & Sets | ✅ |
+
+---
+
+## 📈 Daily Learning Log
+
+### 📅 Day 01 — Variables & Data Types
+
+#### Topics Covered
 - Variables
 - Strings
 - Integers
 - Floats
 - Booleans
-- Type Checking using `type()`
-- Type Casting using `int()`
+- Type Checking
+- Type Casting
+
+#### Key Takeaways
+- Understanding Python's built-in data types.
+- Using variables to store and manipulate data.
+- Identifying data types with `type()`.
+- Converting values between data types using type casting.
 
 ---
 
-## 📚 Code Overview
+### 📅 Day 02 — Loops & Functions
 
-### String
-```python
-name = "Athiya"
-```
+#### Topics Covered
+- Functions
+- Function Parameters
+- Return Statements
+- For Loops
+- While Loops
 
-### Integer
-```python
-age = 22
-```
-
-### Float
-```python
-gpa = 3.8
-```
-
-### Boolean
-```python
-is_coding = True
-```
-
-### Type Checking
-```python
-print(type(name))
-```
-
-### Type Casting
-```python
-user_input = "10"
-converted_input = int(user_input)
-print(converted_input + 5)
-```
+#### Key Takeaways
+- Writing reusable code using functions.
+- Automating repetitive tasks with loops.
+- Returning values from functions for further processing.
+- Understanding iterative problem-solving techniques.
 
 ---
 
-## 💡 Key Learnings
+### 📅 Day 03 — Lists & List Operations
 
-- Variables are used to store data in Python.
-- Strings store text values.
-- Integers store whole numbers.
-- Floats store decimal values.
-- Booleans represent `True` or `False`.
-- The `type()` function helps identify a variable's data type.
-- Type casting allows conversion between different data types.
+#### Topics Covered
+- Creating Lists
+- Adding Elements
+- Removing Elements
+- List Slicing
+- Nested Lists
+
+#### Key Takeaways
+- Managing collections of data efficiently.
+- Modifying lists using built-in methods.
+- Extracting subsets of data using slicing.
+- Working with multi-dimensional data structures.
 
 ---
 
-## 🛠️ Tech Stack
+### 📅 Day 04 — Tuples & Sets
 
-- Python 3.x
+#### Topics Covered
+- Tuples
+- Immutable Data Structures
+- Sets
+- Set Operations
+  - Union
+  - Intersection
+  - Difference
+
+#### Key Takeaways
+- Understanding immutable collections with tuples.
+- Managing unique values using sets.
+- Performing mathematical set operations efficiently.
+- Choosing appropriate data structures based on requirements.
 
 ---
 
-## 📂 Folder Structure
+## 🛠️ Technology Stack
+
+- **Programming Language:** Python 3.x
+- **Development Environment:** Visual Studio Code
+- **Version Control:** Git & GitHub
+
+---
+
+## 📂 Repository Structure
 
 ```text
 Python_practice/
 │
 ├── README.md
-└── day01_variables_datatypes.py
+├── day01_variables_datatypes.py
+├── day02_loops_functions.py
+├── day03_lists.py
+└── day04_tuples_sets.py
 ```
 
 ---
 
-### ✅ Day 01 Completed
+## 🎯 Objectives
 
-**Next:** Operators and User Input
+- Strengthen Python programming fundamentals.
+- Develop problem-solving and logical thinking skills.
+- Build consistency through daily coding practice.
+- Create a strong foundation for Data Science and Machine Learning.
+- Prepare for technical interviews and coding assessments.
+
+---
+
+## 📊 Current Progress
+
+**Completed:** 4 / 30 Days
+
+████░░░░░░░░░░░░░░░░ 13%
+
+---
+
+### 🚀 Upcoming Topics
+
+- Dictionaries & Dictionary Methods
+- String Manipulation
+- File Handling
+- Exception Handling
+- Object-Oriented Programming
+- NumPy & Pandas Fundamentals
+
+---
+
+**Progress is achieved through consistent daily practice.**
