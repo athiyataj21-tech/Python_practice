@@ -18,6 +18,10 @@ This repository serves as a collection of daily Python exercises, code examples,
 | 02 | Loops & Functions | ✅ |
 | 03 | Lists & List Operations | ✅ |
 | 04 | Tuples & Sets | ✅ |
+| 05 | Dictionaries | ✅ |
+| 06 | Conditional Statements | ✅ |
+| 07 | File Handling | ✅ |
+| 08 | String Manipulation | ✅ |
 
 ---
 
@@ -95,6 +99,75 @@ This repository serves as a collection of daily Python exercises, code examples,
 
 ---
 
+### 📅 Day 05 — Dictionaries
+
+#### Topics Covered
+- Creating Dictionaries
+- Accessing Values
+- Adding & Updating Items
+- Dictionary Methods
+- Iterating Through Dictionaries
+
+#### Key Takeaways
+- Storing data in key-value pairs.
+- Efficient data retrieval and updates.
+- Using dictionary methods for data management.
+- Iterating through keys, values, and items.
+
+---
+
+### 📅 Day 06 — Conditional Statements
+
+#### Topics Covered
+- if Statements
+- if-else Statements
+- if-elif-else Statements
+- Nested Conditions
+- Logical Operators
+
+#### Key Takeaways
+- Implementing decision-making logic.
+- Evaluating multiple conditions effectively.
+- Combining conditions using logical operators.
+- Building dynamic program flows.
+
+---
+
+### 📅 Day 07 — File Handling
+
+#### Topics Covered
+- Opening Files
+- Reading Files
+- Writing Files
+- Appending Files
+- Context Managers (`with` Statement)
+
+#### Key Takeaways
+- Working with external files.
+- Reading and writing persistent data.
+- Managing resources safely using context managers.
+- Understanding file modes and operations.
+
+---
+
+### 📅 Day 08 — String Manipulation
+
+#### Topics Covered
+- String Methods
+- Splitting Strings
+- Joining Strings
+- String Formatting
+- Substring Searching
+- String Cleaning
+
+#### Key Takeaways
+- Processing and transforming text data.
+- Formatting output using f-strings.
+- Converting strings into structured data.
+- Performing common text preprocessing tasks used in Data Science and Machine Learning.
+
+---
+
 ## 🛠️ Technology Stack
 
 - **Programming Language:** Python 3.x
@@ -112,7 +185,11 @@ Python_practice/
 ├── day01_variables_datatypes.py
 ├── day02_loops_functions.py
 ├── day03_lists.py
-└── day04_tuples_sets.py
+├── day04_tuples_sets.py
+├── day05_dictionaries.py
+├── day06_conditional_statements.py
+├── day07_file_handling.py
+└── day08_string_manipulation.py
 ```
 
 ---
@@ -129,21 +206,26 @@ Python_practice/
 
 ## 📊 Current Progress
 
-**Completed:** 4 / 30 Days
+**Completed:** 8 / 30 Days
 
-████░░░░░░░░░░░░░░░░ 13%
+🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 27%
 
 ---
 
-### 🚀 Upcoming Topics
+## 🚀 Upcoming Topics
 
-- Dictionaries & Dictionary Methods
-- String Manipulation
-- File Handling
 - Exception Handling
-- Object-Oriented Programming
-- NumPy & Pandas Fundamentals
+- Modules & Packages
+- Object-Oriented Programming (OOP)
+- NumPy Fundamentals
+- Pandas Fundamentals
+- Data Visualization
+- Mini Python Projects
 
 ---
+
+## ⭐ Connect With Me
+
+If you're also learning Python, feel free to explore the repository, share feedback, and follow my coding journey.
 
 **Progress is achieved through consistent daily practice.**
