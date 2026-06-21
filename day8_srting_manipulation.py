@@ -25,4 +25,21 @@ print(f"Formatted Revenue: ${revenue:,}") # Adds commas for readability
 message = "Learning Data Science with Gemini"
 print(f"Does it contain 'Data'? {'Data' in message}")
 
+# 5. STRING REPLACEMENT
+sentence = "I love Python"
+print(sentence.replace("Python", "Data Science"))
+
+# 6. COUNTING OCCURRENCES
+text = "data data science data"
+print(f"Count of 'data': {text.count('data')}")
+
+# 7. STRING REVERSAL
+word = "Python"
+print(f"Reversed: {word[::-1]}")
+
+# 8. CHECKING STRING PROPERTIES
+username = "Athiya123"
+print(username.isalnum())  # True
+print(username.isalpha())  # False
+
 # End of Day 8 Script
