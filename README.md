@@ -1,12 +1,12 @@
 # Python_practice 🐍
 
-A structured Python learning repository documenting my journey from core programming fundamentals to advanced problem-solving and data science concepts through daily hands-on practice.
+> A 30-Day Python Learning Challenge focused on building strong programming fundamentals, problem-solving skills, and a foundation for Data Science & Machine Learning.
 
 ---
 
 ## 📖 Overview
 
-This repository serves as a collection of daily Python exercises, code examples, and concept implementations designed to strengthen programming fundamentals and build a solid foundation for data science, software development, and technical interviews.
+This repository documents my daily Python learning journey through hands-on coding exercises and practical examples. The goal is to strengthen programming fundamentals, improve problem-solving skills, and build a solid foundation for Data Science, Machine Learning, and Software Development.
 
 ---
 
@@ -22,6 +22,9 @@ This repository serves as a collection of daily Python exercises, code examples,
 | 06 | Conditional Statements | ✅ |
 | 07 | File Handling | ✅ |
 | 08 | String Manipulation | ✅ |
+| 09 | List Comprehensions | ✅ |
+| 10 | File Handling Basics | ✅ |
+| 11 | Exception Handling | ✅ |
 
 ---
 
@@ -59,7 +62,6 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Writing reusable code using functions.
 - Automating repetitive tasks with loops.
 - Returning values from functions for further processing.
-- Understanding iterative problem-solving techniques.
 
 ---
 
@@ -75,8 +77,7 @@ This repository serves as a collection of daily Python exercises, code examples,
 #### Key Takeaways
 - Managing collections of data efficiently.
 - Modifying lists using built-in methods.
-- Extracting subsets of data using slicing.
-- Working with multi-dimensional data structures.
+- Working with list slicing and nested structures.
 
 ---
 
@@ -92,10 +93,9 @@ This repository serves as a collection of daily Python exercises, code examples,
   - Difference
 
 #### Key Takeaways
-- Understanding immutable collections with tuples.
+- Understanding immutable collections.
 - Managing unique values using sets.
 - Performing mathematical set operations efficiently.
-- Choosing appropriate data structures based on requirements.
 
 ---
 
@@ -109,10 +109,9 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Iterating Through Dictionaries
 
 #### Key Takeaways
-- Storing data in key-value pairs.
-- Efficient data retrieval and updates.
-- Using dictionary methods for data management.
-- Iterating through keys, values, and items.
+- Storing data as key-value pairs.
+- Efficient retrieval and modification of information.
+- Working with dictionary methods and iteration.
 
 ---
 
@@ -126,10 +125,9 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Logical Operators
 
 #### Key Takeaways
-- Implementing decision-making logic.
+- Building decision-making logic.
 - Evaluating multiple conditions effectively.
-- Combining conditions using logical operators.
-- Building dynamic program flows.
+- Creating dynamic program flows.
 
 ---
 
@@ -139,14 +137,13 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Opening Files
 - Reading Files
 - Writing Files
-- Appending Files
+- Appending Data
 - Context Managers (`with` Statement)
 
 #### Key Takeaways
 - Working with external files.
 - Reading and writing persistent data.
 - Managing resources safely using context managers.
-- Understanding file modes and operations.
 
 ---
 
@@ -163,8 +160,69 @@ This repository serves as a collection of daily Python exercises, code examples,
 #### Key Takeaways
 - Processing and transforming text data.
 - Formatting output using f-strings.
-- Converting strings into structured data.
-- Performing common text preprocessing tasks used in Data Science and Machine Learning.
+- Performing common text preprocessing tasks.
+
+---
+
+### 📅 Day 09 — List Comprehensions
+
+#### Topics Covered
+- Basic List Comprehensions
+- Conditional Filtering
+- Conditional Transformations
+- String Processing
+
+#### Key Takeaways
+- Writing concise and efficient Python code.
+- Filtering and transforming data in a single line.
+- Improving code readability and performance.
+
+---
+
+### 📅 Day 10 — File Handling Basics
+
+#### Topics Covered
+- Writing to Files
+- Reading Files
+- Appending Data
+- Reading Line by Line
+
+#### Key Takeaways
+- Creating and managing text files.
+- Storing information persistently.
+- Processing file content efficiently.
+
+---
+
+### 📅 Day 11 — Exception Handling
+
+#### Topics Covered
+- try-except Blocks
+- Handling ValueError
+- Handling ZeroDivisionError
+- else and finally Blocks
+- Raising Custom Exceptions
+
+#### Key Takeaways
+- Preventing program crashes through error handling.
+- Managing unexpected user inputs safely.
+- Building robust and reliable applications.
+
+---
+
+## 💡 Skills Developed
+
+- Python Fundamentals
+- Data Structures
+- Control Flow
+- Functions
+- File Handling
+- String Manipulation
+- List Comprehensions
+- Exception Handling
+- Problem Solving
+- Debugging
+- Git & GitHub
 
 ---
 
@@ -189,7 +247,10 @@ Python_practice/
 ├── day05_dictionaries.py
 ├── day06_conditional_statements.py
 ├── day07_file_handling.py
-└── day08_string_manipulation.py
+├── day08_string_manipulation.py
+├── day09_list_comprehensions.py
+├── day10_file_handling_basics.py
+└── day11_exception_handling.py
 ```
 
 ---
@@ -206,26 +267,46 @@ Python_practice/
 
 ## 📊 Current Progress
 
-**Completed:** 8 / 30 Days
+**Completed:** 11 / 30 Days 🚀
 
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ 27%
-
----
-
-## 🚀 Upcoming Topics
-
-- Exception Handling
-- Modules & Packages
-- Object-Oriented Programming (OOP)
-- NumPy Fundamentals
-- Pandas Fundamentals
-- Data Visualization
-- Mini Python Projects
+**Progress:** 37%
 
 ---
 
-## ⭐ Connect With Me
+## 🚀 Learning Roadmap
 
-If you're also learning Python, feel free to explore the repository, share feedback, and follow my coding journey.
+- [x] Variables & Data Types
+- [x] Loops & Functions
+- [x] Lists
+- [x] Tuples & Sets
+- [x] Dictionaries
+- [x] Conditional Statements
+- [x] File Handling
+- [x] String Manipulation
+- [x] List Comprehensions
+- [x] File Handling Basics
+- [x] Exception Handling
+- [ ] Modules & Packages
+- [ ] Object-Oriented Programming (OOP)
+- [ ] NumPy
+- [ ] Pandas
+- [ ] Data Visualization
+- [ ] Mini Projects
 
-**Progress is achieved through consistent daily practice.**
+---
+
+## 👩‍💻 Author
+
+**Athiya Taj**
+
+- Aspiring Data Scientist
+- Machine Learning Enthusiast
+- Python Developer
+
+GitHub: https://github.com/athiyataj21-tech
+
+LinkedIn: https://linkedin.com/in/athiya-taj-a17416394
+
+---
+
+⭐ **Progress is achieved through consistent daily practice.**
