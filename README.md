@@ -1,12 +1,12 @@
 # Python_practice 🐍
 
-> A 30-Day Python Learning Challenge focused on building strong programming fundamentals, problem-solving skills, and a foundation for Data Science & Machine Learning.
+> A 30-Day Python Learning Challenge focused on building strong programming fundamentals, problem-solving skills, and building a solid foundation for Data Science, Machine Learning, and Software Development.
 
 ---
 
 ## 📖 Overview
 
-This repository documents my daily Python learning journey through hands-on coding exercises and practical examples. The goal is to strengthen programming fundamentals, improve problem-solving skills, and build a solid foundation for Data Science, Machine Learning, and Software Development.
+This repository documents my daily Python learning journey through hands-on coding exercises and practical examples. The goal is to strengthen programming fundamentals, improve problem-solving skills, and build a strong foundation for Data Science, Machine Learning, Artificial Intelligence, and Software Development.
 
 ---
 
@@ -25,6 +25,10 @@ This repository documents my daily Python learning journey through hands-on codi
 | 09 | List Comprehensions | ✅ |
 | 10 | File Handling Basics | ✅ |
 | 11 | Exception Handling | ✅ |
+| 12 | Modules & Packages | ✅ |
+| 13 | NumPy Basics | ✅ |
+| 14 | NumPy Operations | ✅ |
+| 15 | Pandas Basics | ✅ |
 
 ---
 
@@ -210,6 +214,71 @@ This repository documents my daily Python learning journey through hands-on codi
 
 ---
 
+### 📅 Day 12 — Modules & Packages
+
+#### Topics Covered
+- Importing Modules
+- Built-in Modules
+- Creating Custom Modules
+- Package Structure
+
+#### Key Takeaways
+- Organizing Python code into reusable modules.
+- Improving code maintainability and scalability.
+- Understanding package structures.
+
+---
+
+### 📅 Day 13 — NumPy Basics 🔢
+
+#### Topics Covered
+- NumPy Arrays
+- Multi-Dimensional Arrays
+- Array Properties
+- Helper Functions
+- Array Indexing
+
+#### Key Takeaways
+- Creating and working with NumPy arrays.
+- Understanding array dimensions and shapes.
+- Using `zeros()`, `ones()`, and `arange()`.
+- Accessing array elements through indexing.
+
+---
+
+### 📅 Day 14 — NumPy Operations ⚡
+
+#### Topics Covered
+- Element-wise Operations
+- Vectorization
+- Statistical Functions
+- Array Reshaping
+- Broadcasting
+
+#### Key Takeaways
+- Performing mathematical operations efficiently.
+- Calculating mean, standard deviation, and sums.
+- Reshaping arrays using `reshape()`.
+- Understanding broadcasting concepts.
+
+---
+
+### 📅 Day 15 — Pandas Basics 🐼
+
+#### Topics Covered
+- Pandas Series
+- DataFrames
+- Data Inspection
+- Summary Statistics
+
+#### Key Takeaways
+- Creating and managing Pandas Series.
+- Working with DataFrames for structured data.
+- Inspecting datasets using `head()`.
+- Generating statistical summaries with `describe()`.
+
+---
+
 ## 💡 Skills Developed
 
 - Python Fundamentals
@@ -220,6 +289,10 @@ This repository documents my daily Python learning journey through hands-on codi
 - String Manipulation
 - List Comprehensions
 - Exception Handling
+- Modules & Packages
+- NumPy
+- Pandas
+- Data Analysis Basics
 - Problem Solving
 - Debugging
 - Git & GitHub
@@ -229,6 +302,7 @@ This repository documents my daily Python learning journey through hands-on codi
 ## 🛠️ Technology Stack
 
 - **Programming Language:** Python 3.x
+- **Libraries:** NumPy, Pandas
 - **Development Environment:** Visual Studio Code
 - **Version Control:** Git & GitHub
 
@@ -250,7 +324,11 @@ Python_practice/
 ├── day08_string_manipulation.py
 ├── day09_list_comprehensions.py
 ├── day10_file_handling_basics.py
-└── day11_exception_handling.py
+├── day11_exception_handling.py
+├── day12_modules_packages.py
+├── day13_numpy_basics.py
+├── day14_numpy_operations.py
+└── day15_pandas_basics.py
 ```
 
 ---
@@ -267,9 +345,9 @@ Python_practice/
 
 ## 📊 Current Progress
 
-**Completed:** 11 / 30 Days 🚀
+**Completed:** 15 / 30 Days 🚀
 
-**Progress:** 37%
+**Progress:** 50%
 
 ---
 
@@ -286,11 +364,14 @@ Python_practice/
 - [x] List Comprehensions
 - [x] File Handling Basics
 - [x] Exception Handling
-- [ ] Modules & Packages
-- [ ] Object-Oriented Programming (OOP)
-- [ ] NumPy
-- [ ] Pandas
+- [x] Modules & Packages
+- [x] NumPy
+- [x] Pandas
+- [ ] Matplotlib Basics
+- [ ] Seaborn Basics
 - [ ] Data Visualization
+- [ ] Exploratory Data Analysis (EDA)
+- [ ] Machine Learning Basics
 - [ ] Mini Projects
 
 ---
@@ -309,4 +390,4 @@ LinkedIn: https://linkedin.com/in/athiya-taj-a17416394
 
 ---
 
-⭐ **Progress is achieved through consistent daily practice.**
+⭐ **Consistency compounds. Every day of practice brings you one step closer to mastery.**
