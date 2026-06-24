@@ -1,281 +1,60 @@
-# Python_practice 🐍
-
-> A 30-Day Python Learning Challenge focused on building strong programming fundamentals, problem-solving skills, and building a solid foundation for Data Science, Machine Learning, and Software Development.
-
----
-
-## 📖 Overview
-
-This repository documents my daily Python learning journey through hands-on coding exercises and practical examples. The goal is to strengthen programming fundamentals, improve problem-solving skills, and build a strong foundation for Data Science, Machine Learning, Artificial Intelligence, and Software Development.
+| 16 | Data Selection with Pandas | ✅ |
+| 17 | Data Cleaning | ✅ |
+| 18 | Handling Missing Data | ✅ |
 
 ---
 
-## 🗺️ Learning Progress
-
-| Day | Topic | Status |
-| :---: | :--- | :---: |
-| 01 | Variables & Data Types | ✅ |
-| 02 | Loops & Functions | ✅ |
-| 03 | Lists & List Operations | ✅ |
-| 04 | Tuples & Sets | ✅ |
-| 05 | Dictionaries | ✅ |
-| 06 | Conditional Statements | ✅ |
-| 07 | File Handling | ✅ |
-| 08 | String Manipulation | ✅ |
-| 09 | List Comprehensions | ✅ |
-| 10 | File Handling Basics | ✅ |
-| 11 | Exception Handling | ✅ |
-| 12 | Modules & Packages | ✅ |
-| 13 | NumPy Basics | ✅ |
-| 14 | NumPy Operations | ✅ |
-| 15 | Pandas Basics | ✅ |
-
----
-
-## 📈 Daily Learning Log
-
-### 📅 Day 01 — Variables & Data Types
+### 📅 Day 16 — Data Selection 🎯
 
 #### Topics Covered
-- Variables
-- Strings
-- Integers
-- Floats
-- Booleans
-- Type Checking
-- Type Casting
-
-#### Key Takeaways
-- Understanding Python's built-in data types.
-- Using variables to store and manipulate data.
-- Identifying data types with `type()`.
-- Converting values between data types using type casting.
-
----
-
-### 📅 Day 02 — Loops & Functions
-
-#### Topics Covered
-- Functions
-- Function Parameters
-- Return Statements
-- For Loops
-- While Loops
-
-#### Key Takeaways
-- Writing reusable code using functions.
-- Automating repetitive tasks with loops.
-- Returning values from functions for further processing.
-
----
-
-### 📅 Day 03 — Lists & List Operations
-
-#### Topics Covered
-- Creating Lists
-- Adding Elements
-- Removing Elements
-- List Slicing
-- Nested Lists
-
-#### Key Takeaways
-- Managing collections of data efficiently.
-- Modifying lists using built-in methods.
-- Working with list slicing and nested structures.
-
----
-
-### 📅 Day 04 — Tuples & Sets
-
-#### Topics Covered
-- Tuples
-- Immutable Data Structures
-- Sets
-- Set Operations
-  - Union
-  - Intersection
-  - Difference
-
-#### Key Takeaways
-- Understanding immutable collections.
-- Managing unique values using sets.
-- Performing mathematical set operations efficiently.
-
----
-
-### 📅 Day 05 — Dictionaries
-
-#### Topics Covered
-- Creating Dictionaries
-- Accessing Values
-- Adding & Updating Items
-- Dictionary Methods
-- Iterating Through Dictionaries
-
-#### Key Takeaways
-- Storing data as key-value pairs.
-- Efficient retrieval and modification of information.
-- Working with dictionary methods and iteration.
-
----
-
-### 📅 Day 06 — Conditional Statements
-
-#### Topics Covered
-- if Statements
-- if-else Statements
-- if-elif-else Statements
-- Nested Conditions
-- Logical Operators
-
-#### Key Takeaways
-- Building decision-making logic.
-- Evaluating multiple conditions effectively.
-- Creating dynamic program flows.
-
----
-
-### 📅 Day 07 — File Handling
-
-#### Topics Covered
-- Opening Files
-- Reading Files
-- Writing Files
-- Appending Data
-- Context Managers (`with` Statement)
-
-#### Key Takeaways
-- Working with external files.
-- Reading and writing persistent data.
-- Managing resources safely using context managers.
-
----
-
-### 📅 Day 08 — String Manipulation
-
-#### Topics Covered
-- String Methods
-- Splitting Strings
-- Joining Strings
-- String Formatting
-- Substring Searching
-- String Cleaning
-
-#### Key Takeaways
-- Processing and transforming text data.
-- Formatting output using f-strings.
-- Performing common text preprocessing tasks.
-
----
-
-### 📅 Day 09 — List Comprehensions
-
-#### Topics Covered
-- Basic List Comprehensions
+- Selecting Columns
+- Row Selection with `iloc`
+- Label-based Selection with `loc`
 - Conditional Filtering
-- Conditional Transformations
-- String Processing
+- Multiple Conditions
 
 #### Key Takeaways
-- Writing concise and efficient Python code.
-- Filtering and transforming data in a single line.
-- Improving code readability and performance.
+- Extracting specific columns and rows from DataFrames.
+- Using `iloc` for integer-based indexing.
+- Using `loc` for label-based indexing.
+- Filtering data using single and multiple conditions.
+- Preparing datasets for analysis and machine learning.
 
 ---
 
-### 📅 Day 10 — File Handling Basics
+### 📅 Day 17 — Data Cleaning 🧹
 
 #### Topics Covered
-- Writing to Files
-- Reading Files
-- Appending Data
-- Reading Line by Line
+- Identifying Duplicates
+- Removing Duplicates
+- Renaming Columns
+- String Cleaning
+- Data Standardization
 
 #### Key Takeaways
-- Creating and managing text files.
-- Storing information persistently.
-- Processing file content efficiently.
+- Detecting and removing duplicate records.
+- Improving dataset quality through cleaning operations.
+- Renaming columns for better readability.
+- Standardizing text data using string methods.
+- Preparing clean datasets for analysis.
 
 ---
 
-### 📅 Day 11 — Exception Handling
+### 📅 Day 18 — Handling Missing Data 🔍
 
 #### Topics Covered
-- try-except Blocks
-- Handling ValueError
-- Handling ZeroDivisionError
-- else and finally Blocks
-- Raising Custom Exceptions
+- Detecting Missing Values
+- Null Value Analysis
+- Dropping Missing Data
+- Filling Missing Values (Imputation)
+- Mean Imputation
 
 #### Key Takeaways
-- Preventing program crashes through error handling.
-- Managing unexpected user inputs safely.
-- Building robust and reliable applications.
-
----
-
-### 📅 Day 12 — Modules & Packages
-
-#### Topics Covered
-- Importing Modules
-- Built-in Modules
-- Creating Custom Modules
-- Package Structure
-
-#### Key Takeaways
-- Organizing Python code into reusable modules.
-- Improving code maintainability and scalability.
-- Understanding package structures.
-
----
-
-### 📅 Day 13 — NumPy Basics 🔢
-
-#### Topics Covered
-- NumPy Arrays
-- Multi-Dimensional Arrays
-- Array Properties
-- Helper Functions
-- Array Indexing
-
-#### Key Takeaways
-- Creating and working with NumPy arrays.
-- Understanding array dimensions and shapes.
-- Using `zeros()`, `ones()`, and `arange()`.
-- Accessing array elements through indexing.
-
----
-
-### 📅 Day 14 — NumPy Operations ⚡
-
-#### Topics Covered
-- Element-wise Operations
-- Vectorization
-- Statistical Functions
-- Array Reshaping
-- Broadcasting
-
-#### Key Takeaways
-- Performing mathematical operations efficiently.
-- Calculating mean, standard deviation, and sums.
-- Reshaping arrays using `reshape()`.
-- Understanding broadcasting concepts.
-
----
-
-### 📅 Day 15 — Pandas Basics 🐼
-
-#### Topics Covered
-- Pandas Series
-- DataFrames
-- Data Inspection
-- Summary Statistics
-
-#### Key Takeaways
-- Creating and managing Pandas Series.
-- Working with DataFrames for structured data.
-- Inspecting datasets using `head()`.
-- Generating statistical summaries with `describe()`.
+- Identifying missing data in datasets.
+- Removing incomplete records when necessary.
+- Replacing missing values using statistical techniques.
+- Using imputation to preserve valuable data.
+- Building reliable datasets for machine learning workflows.
 
 ---
 
@@ -289,22 +68,17 @@ This repository documents my daily Python learning journey through hands-on codi
 - String Manipulation
 - List Comprehensions
 - Exception Handling
-- Modules & Packages
-- NumPy
-- Pandas
-- Data Analysis Basics
+- NumPy Fundamentals
+- Array Manipulation
+- Statistical Analysis
+- Pandas Fundamentals
+- Data Selection
+- Data Cleaning
+- Missing Value Handling
+- Data Manipulation
 - Problem Solving
 - Debugging
 - Git & GitHub
-
----
-
-## 🛠️ Technology Stack
-
-- **Programming Language:** Python 3.x
-- **Libraries:** NumPy, Pandas
-- **Development Environment:** Visual Studio Code
-- **Version Control:** Git & GitHub
 
 ---
 
@@ -328,26 +102,19 @@ Python_practice/
 ├── day12_modules_packages.py
 ├── day13_numpy_basics.py
 ├── day14_numpy_operations.py
-└── day15_pandas_basics.py
+├── day15_pandas_basics.py
+├── day16_data_selection.py
+├── day17_data_cleaning.py
+└── day18_handling_missing_data.py
 ```
-
----
-
-## 🎯 Objectives
-
-- Strengthen Python programming fundamentals.
-- Develop problem-solving and logical thinking skills.
-- Build consistency through daily coding practice.
-- Create a strong foundation for Data Science and Machine Learning.
-- Prepare for technical interviews and coding assessments.
 
 ---
 
 ## 📊 Current Progress
 
-**Completed:** 15 / 30 Days 🚀
+**Completed:** 18 / 30 Days 🚀
 
-**Progress:** 50%
+**Progress:** 60%
 
 ---
 
@@ -365,13 +132,16 @@ Python_practice/
 - [x] File Handling Basics
 - [x] Exception Handling
 - [x] Modules & Packages
-- [x] NumPy
-- [x] Pandas
-- [ ] Matplotlib Basics
-- [ ] Seaborn Basics
+- [x] NumPy Basics
+- [x] NumPy Operations
+- [x] Pandas Basics
+- [x] Data Selection
+- [x] Data Cleaning
+- [x] Handling Missing Data
 - [ ] Data Visualization
 - [ ] Exploratory Data Analysis (EDA)
-- [ ] Machine Learning Basics
+- [ ] Feature Engineering
+- [ ] Machine Learning Fundamentals
 - [ ] Mini Projects
 
 ---
