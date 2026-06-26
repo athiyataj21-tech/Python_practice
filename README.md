@@ -34,6 +34,8 @@ This repository serves as a collection of daily Python exercises, code examples,
 | 18 | Handling Missing Data | ✅ |
 | 19 | Grouping & Aggregating | ✅ |
 | 20 | Merging & Joining | ✅ |
+| 21 | Matplotlib Basics | ✅ |
+| 22 | Scatter Plots & Histograms | ✅ |
 
 ---
 
@@ -325,6 +327,40 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Combining multiple datasets.
 - Understanding relational data structures.
 
+### 📅 Day 21 — Matplotlib Basics 📊
+
+#### Topics Covered
+- Line Plots
+- Bar Charts
+- Plot Customization
+- Titles & Labels
+- Saving Figures
+
+#### Key Takeaways
+- Creating visualizations using Matplotlib.
+- Tracking trends with line charts.
+- Comparing categories using bar charts.
+- Customizing plots with labels, legends, and grids.
+- Saving charts as image files.
+
+---
+
+### 📅 Day 22 — Scatter Plots & Histograms 🎯
+
+#### Topics Covered
+- Scatter Plots
+- Histograms
+- Correlation Analysis
+- Data Distribution
+- Subplots
+
+#### Key Takeaways
+- Visualizing relationships between variables.
+- Understanding data distributions.
+- Using histograms to analyze frequency patterns.
+- Creating multiple visualizations in a single figure.
+- Building foundations for Exploratory Data Analysis (EDA).
+
 ---
 
 ## 💡 Skills Developed
@@ -342,20 +378,14 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Data Selection
 - Data Cleaning
 - Missing Value Handling
-- Data Aggregation
-- Data Merging
+- Grouping & Aggregation
+- Data Merging & Joining
+- Data Visualization
+- Matplotlib
+- Exploratory Data Analysis (EDA)
+- Statistical Analysis
 - Problem Solving
 - Debugging
-- Git & GitHub
-
----
-
-## 🛠️ Technology Stack
-
-- Python 3.x
-- NumPy
-- Pandas
-- Visual Studio Code
 - Git & GitHub
 
 ---
@@ -385,36 +415,30 @@ Python_practice/
 ├── day17_data_cleaning.py
 ├── day18_handling_missing_data.py
 ├── day19_grouping_aggregating.py
-└── day20_merging_joining.py
+├── day20_merging_joining.py
+├── day21_matplotlib_basics.py
+└── day22_scatter_histograms.py
 ```
-
----
-
-## 🎯 Objectives
-
-- Strengthen Python programming fundamentals.
-- Develop problem-solving skills.
-- Build consistency through daily coding.
-- Create a foundation for Data Science & Machine Learning.
-- Prepare for technical interviews.
 
 ---
 
 ## 📊 Current Progress
 
-**Completed:** 20 / 30 Days 🚀
+**Completed:** 22 / 30 Days 🚀
 
-**Progress:** 67%
+**Progress:** 73%
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 73%
 
 ---
 
 ## 🚀 Upcoming Topics
 
-- Data Visualization
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Machine Learning Fundamentals
 - Model Evaluation
+- Scikit-Learn Basics
 - Mini Projects
 
 ---
