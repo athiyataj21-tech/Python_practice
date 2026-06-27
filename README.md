@@ -36,6 +36,8 @@ This repository serves as a collection of daily Python exercises, code examples,
 | 20 | Merging & Joining | ✅ |
 | 21 | Matplotlib Basics | ✅ |
 | 22 | Scatter Plots & Histograms | ✅ |
+| 23 | Seaborn Visualization | ✅ |
+| 24 | Statistical Data Analysis | ✅ |
 
 ---
 
@@ -361,6 +363,38 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Creating multiple visualizations in a single figure.
 - Building foundations for Exploratory Data Analysis (EDA).
 
+### 📅 Day 23 — Seaborn Visualization 🎨
+
+#### Topics Covered
+- Seaborn Basics
+- Violin Plots
+- Heatmaps
+- Correlation Analysis
+- Pair Plots
+
+#### Key Takeaways
+- Creating professional statistical visualizations.
+- Understanding data distributions using violin plots.
+- Analyzing relationships between variables using heatmaps.
+
+### 📅 Day 24 — Statistical Data Analysis 🧠
+
+#### Topics Covered
+- Mean
+- Median
+- Mode
+- Variance
+- Standard Deviation
+- Percentiles
+- Z-Score Analysis
+
+#### Key Takeaways
+- Understanding measures of central tendency.
+- Measuring data variability and dispersion.
+- Identifying data distribution characteristics.
+- Detecting potential outliers using Z-Scores.
+- Applying statistical concepts to real-world datasets.
+
 ---
 
 ## 💡 Skills Developed
@@ -382,8 +416,11 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Data Merging & Joining
 - Data Visualization
 - Matplotlib
-- Exploratory Data Analysis (EDA)
+- Seaborn
 - Statistical Analysis
+- Exploratory Data Analysis (EDA)
+- Correlation Analysis
+- Data Interpretation
 - Problem Solving
 - Debugging
 - Git & GitHub
@@ -417,30 +454,31 @@ Python_practice/
 ├── day19_grouping_aggregating.py
 ├── day20_merging_joining.py
 ├── day21_matplotlib_basics.py
-└── day22_scatter_histograms.py
+├── day22_scatter_histograms.py
+├── day23_seaborn_visualization.py
+└── day24_statistical_data_analysis.py
 ```
 
 ---
 
 ## 📊 Current Progress
 
-**Completed:** 22 / 30 Days 🚀
+**Completed:** 24 / 30 Days 🚀
 
-**Progress:** 73%
+**Progress:** 80%
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜ 73%
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80%
 
 ---
 
 ## 🚀 Upcoming Topics
 
-- Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Machine Learning Fundamentals
-- Model Evaluation
 - Scikit-Learn Basics
+- Model Training
+- Model Evaluation
 - Mini Projects
-
 ---
 
 ## ⭐ Connect With Me
