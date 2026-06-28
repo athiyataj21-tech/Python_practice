@@ -486,18 +486,20 @@ Python_practice/
 ├── day21_matplotlib_basics.py
 ├── day22_scatter_histograms.py
 ├── day23_seaborn_visualization.py
-└── day24_statistical_data_analysis.py
+├── day24_statistical_data_analysis.py
+├── day25_string_interview_challenges.py
+└── day26_array_interview_challenges.py
 ```
 
 ---
 
 ## 📊 Current Progress
 
-**Completed:** 24 / 30 Days 🚀
+**Completed:** 26 / 30 Days 🚀
 
-**Progress:** 80%
+**Progress:** 87%
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜ 80%
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 87%
 
 ---
 
