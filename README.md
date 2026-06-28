@@ -397,10 +397,43 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Detecting potential outliers using Z-Scores.
 - Applying statistical concepts to real-world datasets.
 
+### 📅 Day 25 — String Interview Challenges 🔠
+
+#### Topics Covered
+- Palindrome Checking
+- Anagram Validation
+- Character Frequency Counting
+- First Unique Character
+- String Processing Techniques
+
+#### Key Takeaways
+- Solved common string-based coding interview problems.
+- Applied string manipulation and frequency mapping techniques.
+- Used dictionary-based approaches for efficient solutions.
+- Improved understanding of time and space complexity.
+- Strengthened problem-solving skills for technical interviews.
+
+---
+
+### 📅 Day 26 — Array Interview Challenges 📋
+
+#### Topics Covered
+- Two Sum Problem
+- Move Zeroes
+- Missing Number
+- Hash Maps (Dictionaries)
+- In-Place Array Manipulation
+
+#### Key Takeaways
+- Solved popular array-based interview questions.
+- Used hash maps for optimized lookups.
+- Applied in-place algorithms to reduce memory usage.
+- Learned efficient approaches for array manipulation.
+- Improved coding interview preparation and analytical thinking.
+
 ---
 
 ## 💡 Skills Developed
-
 - Python Fundamentals
 - Data Structures
 - Functions & Control Flow
@@ -409,21 +442,16 @@ This repository serves as a collection of daily Python exercises, code examples,
 - String Processing
 - List Comprehensions
 - NumPy Fundamentals
-- Array Manipulation
 - Pandas Fundamentals
-- Data Selection
-- Data Cleaning
-- Missing Value Handling
-- Grouping & Aggregation
-- Data Merging & Joining
+- Data Cleaning & Transformation
 - Data Visualization
-- Matplotlib
-- Seaborn
 - Statistical Analysis
 - Exploratory Data Analysis (EDA)
-- Correlation Analysis
-- Data Interpretation
+- String Algorithms
+- Array Algorithms
+- Hash Maps & Dictionaries
 - Problem Solving
+- Technical Interview Preparation
 - Debugging
 - Git & GitHub
 
