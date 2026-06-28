@@ -38,6 +38,8 @@ This repository serves as a collection of daily Python exercises, code examples,
 | 22 | Scatter Plots & Histograms | ✅ |
 | 23 | Seaborn Visualization | ✅ |
 | 24 | Statistical Data Analysis | ✅ |
+| 25 | String Interview Challenges | ✅ |
+| 26 | Array Interview Challenges | ✅ |
 
 ---
 
