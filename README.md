@@ -545,12 +545,13 @@ Python_practice/
 
 ## 📊 Current Progress
 
-**Completed:** 26 / 30 Days 🚀
+## 📊 Current Progress
 
-**Progress:** 87%
+**Completed:** 28 / 30 Days 🚀
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜ 87%
+**Progress:** 93%
 
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 93%
 ---
 
 ## 🚀 Upcoming Topics
@@ -561,7 +562,24 @@ Python_practice/
 - Model Training
 - Model Evaluation
 - Mini Projects
+
 ---
+
+## 🎯 Milestone Achieved
+
+✅ Completed 28 Days of Consistent Python Practice
+
+Topics covered include:
+
+- Core Python Programming
+- Data Structures & Algorithms
+- NumPy & Pandas
+- Data Cleaning & Analysis
+- Data Visualization
+- Statistics
+- Coding Interview Preparation
+
+Only **2 Days Remaining** to complete the **30-Day Python Challenge** 🚀
 
 ## ⭐ Connect With Me
 
