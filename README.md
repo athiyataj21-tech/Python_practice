@@ -40,6 +40,8 @@ This repository serves as a collection of daily Python exercises, code examples,
 | 24 | Statistical Data Analysis | ✅ |
 | 25 | String Interview Challenges | ✅ |
 | 26 | Array Interview Challenges | ✅ |
+| 27 | Search & Math Optimization | ✅ |
+| 28 | Data Structures (Stacks) | ✅ |
 
 ---
 
@@ -365,6 +367,8 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Creating multiple visualizations in a single figure.
 - Building foundations for Exploratory Data Analysis (EDA).
 
+---
+
 ### 📅 Day 23 — Seaborn Visualization 🎨
 
 #### Topics Covered
@@ -378,6 +382,8 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Creating professional statistical visualizations.
 - Understanding data distributions using violin plots.
 - Analyzing relationships between variables using heatmaps.
+
+---
 
 ### 📅 Day 24 — Statistical Data Analysis 🧠
 
@@ -396,6 +402,8 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Identifying data distribution characteristics.
 - Detecting potential outliers using Z-Scores.
 - Applying statistical concepts to real-world datasets.
+
+---
 
 ### 📅 Day 25 — String Interview Challenges 🔠
 
@@ -433,13 +441,50 @@ This repository serves as a collection of daily Python exercises, code examples,
 
 ---
 
+### 📅 Day 27 — Search & Math Optimization 🔍
+
+#### Topics Covered
+- Binary Search
+- Square Root using Binary Search
+- Prime Number Checking
+- Time Complexity Optimization
+- Mathematical Problem Solving
+
+#### Key Takeaways
+- Implemented Binary Search for efficient searching in sorted arrays.
+- Applied Binary Search concepts to solve mathematical problems.
+- Optimized prime number checking using square root logic.
+- Improved understanding of algorithm efficiency and complexity.
+- Strengthened problem-solving and analytical thinking skills.
+
+---
+
+### 📅 Day 28 — Data Structures (Stacks) 🏗️
+
+#### Topics Covered
+- Stack Data Structure
+- LIFO Principle
+- Valid Parentheses Problem
+- Backspace String Compare
+- Stack-Based Algorithms
+
+#### Key Takeaways
+- Learned the fundamentals of stack operations.
+- Solved bracket matching problems using stacks.
+- Simulated text editor backspace functionality.
+- Applied stacks to solve real-world interview questions.
+- Improved understanding of data structure applications.
+
+---
+
 ## 💡 Skills Developed
 - Python Fundamentals
 - Data Structures
+- Lists, Tuples, Sets & Dictionaries
 - Functions & Control Flow
 - File Handling
 - Exception Handling
-- String Processing
+- String Manipulation
 - List Comprehensions
 - NumPy Fundamentals
 - Pandas Fundamentals
@@ -449,6 +494,9 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Exploratory Data Analysis (EDA)
 - String Algorithms
 - Array Algorithms
+- Binary Search
+- Prime Number Optimization
+- Stack Data Structure
 - Hash Maps & Dictionaries
 - Problem Solving
 - Technical Interview Preparation
@@ -488,7 +536,9 @@ Python_practice/
 ├── day23_seaborn_visualization.py
 ├── day24_statistical_data_analysis.py
 ├── day25_string_interview_challenges.py
-└── day26_array_interview_challenges.py
+├── day26_array_interview_challenges.py
+├── day27_search_math_optimization.py
+└── day28_data_structures_stacks.py
 ```
 
 ---
