@@ -1,19 +1,21 @@
 # Python_practice 🐍
 
-A structured Python learning repository documenting my journey from core programming fundamentals to data analysis using Python, NumPy, and Pandas through daily hands-on practice.
+> A 30-Day Python Learning Challenge focused on building strong programming fundamentals, problem-solving skills, coding interview preparation, and building a foundation for Data Science & Machine Learning.
 
 ---
 
 ## 📖 Overview
 
-This repository serves as a collection of daily Python exercises, code examples, and concept implementations designed to strengthen programming fundamentals and build a solid foundation for Data Science, Machine Learning, Software Development, and Technical Interviews.
+This repository documents my daily Python learning journey through hands-on coding exercises, practical examples, data analysis concepts, visualization techniques, and interview-focused problem solving.
+
+The goal is to strengthen programming fundamentals, improve logical thinking, master Python libraries, and prepare for Data Science, Machine Learning, and technical interviews.
 
 ---
 
 ## 🗺️ Learning Progress
 
 | Day | Topic | Status |
-|:---:|:------|:------:|
+| :---: | :--- | :---: |
 | 01 | Variables & Data Types | ✅ |
 | 02 | Loops & Functions | ✅ |
 | 03 | Lists & List Operations | ✅ |
@@ -42,352 +44,168 @@ This repository serves as a collection of daily Python exercises, code examples,
 | 26 | Array Interview Challenges | ✅ |
 | 27 | Search & Math Optimization | ✅ |
 | 28 | Data Structures (Stacks) | ✅ |
+| 29 | Hashing & Grouping | ✅ |
+| 30 | Sliding Window (Capstone) | ✅ |
 
 ---
 
 ## 📈 Daily Learning Log
 
-### 📅 Day 01 — Variables & Data Types
-**Topics Covered**
-- Variables
-- Strings
-- Integers
-- Floats
-- Booleans
-- Type Casting
-
-**Key Takeaways**
-- Understanding Python data types.
-- Working with variables and conversions.
-- Using Python's built-in functions effectively.
-
----
-
-### 📅 Day 02 — Loops & Functions
-
-**Topics Covered**
+### 📅 Days 1 – 12: Python Fundamentals
+- Variables & Data Types
 - Functions
-- Parameters
-- Return Statements
-- For Loops
-- While Loops
-
-**Key Takeaways**
-- Writing reusable code.
-- Automating repetitive tasks.
-- Understanding program flow.
-
----
-
-### 📅 Day 03 — Lists & List Operations
-
-**Topics Covered**
-- Creating Lists
-- Adding Elements
-- Removing Elements
-- List Slicing
-- Nested Lists
-
-**Key Takeaways**
-- Managing collections of data efficiently.
-- Working with list methods and indexing.
-
----
-
-### 📅 Day 04 — Tuples & Sets
-
-**Topics Covered**
+- Loops
+- Lists
 - Tuples
 - Sets
-- Union
-- Intersection
-- Difference
-
-**Key Takeaways**
-- Understanding immutable data structures.
-- Performing set operations efficiently.
-
----
-
-### 📅 Day 05 — Dictionaries
-
-**Topics Covered**
-- Dictionary Creation
-- Accessing Values
-- Updating Data
-- Dictionary Methods
-
-**Key Takeaways**
-- Storing data as key-value pairs.
-- Efficient retrieval and updates.
-
----
-
-### 📅 Day 06 — Conditional Statements
-
-**Topics Covered**
-- if Statements
-- if-else
-- if-elif-else
-- Nested Conditions
-- Logical Operators
-
-**Key Takeaways**
-- Building decision-making logic.
-- Creating dynamic program behavior.
-
----
-
-### 📅 Day 07 — File Handling
-
-**Topics Covered**
-- Reading Files
-- Writing Files
-- Appending Files
-- Context Managers
-
-**Key Takeaways**
-- Managing persistent data.
-- Safe file operations using `with`.
-
----
-
-### 📅 Day 08 — String Manipulation
-
-**Topics Covered**
-- String Methods
-- Split & Join
-- Formatting
-- Substring Search
-
-**Key Takeaways**
-- Processing and cleaning text data.
-- Formatting output using f-strings.
-
----
-
-### 📅 Day 09 — List Comprehensions
-
-**Topics Covered**
-- Basic Comprehensions
-- Filtering
-- Conditional Expressions
-- String Processing
-
-**Key Takeaways**
-- Writing concise Python code.
-- Efficient data transformation.
-
----
-
-### 📅 Day 10 — File Handling Basics
-
-**Topics Covered**
-- Writing Files
-- Reading Files
-- Appending Data
-- Reading Line by Line
-
-**Key Takeaways**
-- Creating and managing text files.
-- Persisting information efficiently.
-
----
-
-### 📅 Day 11 — Exception Handling
-
-**Topics Covered**
-- try-except
-- else
-- finally
-- Custom Exceptions
-
-**Key Takeaways**
-- Preventing program crashes.
-- Building reliable applications.
-
----
-
-### 📅 Day 12 — Modules & Packages
-
-**Topics Covered**
-- Importing Modules
-- Built-in Libraries
-- Custom Modules
-- Package Structure
-
-**Key Takeaways**
-- Organizing code into reusable components.
-- Improving project maintainability.
-
----
-
-### 📅 Day 13 — NumPy Basics
-
-**Topics Covered**
-- NumPy Arrays
-- Shapes & Dimensions
-- Data Types
-- Array Indexing
-- Helper Functions
-
-**Key Takeaways**
-- Understanding NumPy fundamentals.
-- Working with multidimensional arrays.
-
----
-
-### 📅 Day 14 — NumPy Operations
-
-**Topics Covered**
-- Vectorization
-- Statistical Functions
-- Reshaping Arrays
-- Broadcasting
-
-**Key Takeaways**
-- Performing fast numerical computations.
-- Manipulating data efficiently.
-
----
-
-### 📅 Day 15 — Pandas Basics
-
-**Topics Covered**
-- DataFrames
-- Series
-- Reading Data
-- Exploring Data
-
-**Key Takeaways**
-- Working with structured datasets.
-- Understanding Pandas fundamentals.
-
----
-
-### 📅 Day 16 — Data Selection
-
-**Topics Covered**
-- Column Selection
-- `loc`
-- `iloc`
-- Conditional Filtering
-
-**Key Takeaways**
-- Selecting and filtering data efficiently.
-- Preparing datasets for analysis.
-
----
-
-### 📅 Day 17 — Data Cleaning
-
-**Topics Covered**
-- Duplicate Detection
-- Removing Duplicates
-- Renaming Columns
-- String Cleaning
-
-**Key Takeaways**
-- Improving dataset quality.
-- Standardizing data values.
-
----
-
-### 📅 Day 18 — Handling Missing Data
-
-**Topics Covered**
-- Missing Values
-- Null Analysis
-- Drop Missing Data
-- Imputation
-
-**Key Takeaways**
-- Handling incomplete datasets.
-- Preserving useful information through imputation.
-
----
-
-### 📅 Day 19 — Grouping & Aggregating
-
-**Topics Covered**
-- GroupBy Operations
-- Mean Calculation
-- Multiple Aggregations
-- Department-wise Analysis
-
-**Key Takeaways**
-- Summarizing data effectively.
-- Extracting insights through aggregation.
-
----
-
-### 📅 Day 20 — Merging & Joining
-
-**Topics Covered**
-- Inner Join
-- Left Join
-- Merge Operations
-- Concatenation
-
-**Key Takeaways**
-- Combining multiple datasets.
-- Understanding relational data structures.
-
-### 📅 Day 21 — Matplotlib Basics 📊
-
-#### Topics Covered
-- Line Plots
-- Bar Charts
-- Plot Customization
-- Titles & Labels
-- Saving Figures
+- Dictionaries
+- Conditional Statements
+- String Manipulation
+- File Handling
+- Exception Handling
+- Modules & Packages
 
 #### Key Takeaways
-- Creating visualizations using Matplotlib.
-- Tracking trends with line charts.
-- Comparing categories using bar charts.
-- Customizing plots with labels, legends, and grids.
-- Saving charts as image files.
+- Built a strong foundation in Python programming.
+- Learned problem-solving through functions and control flow.
+- Worked with Python data structures.
+- Managed files and handled exceptions effectively.
 
 ---
 
-### 📅 Day 22 — Scatter Plots & Histograms 🎯
+### 📅 Days 13 – 20: Data Analysis with NumPy & Pandas
 
 #### Topics Covered
+- NumPy Arrays
+- NumPy Operations
+- Pandas DataFrames
+- Data Selection
+- Data Cleaning
+- Missing Value Handling
+- Grouping & Aggregation
+- Merging & Joining
+
+#### Key Takeaways
+- Learned efficient numerical computing using NumPy.
+- Performed data manipulation and analysis with Pandas.
+- Cleaned and transformed datasets.
+- Applied real-world data analysis techniques.
+
+---
+
+### 📅 Days 21 – 24: Data Visualization & Statistics
+
+#### Topics Covered
+- Matplotlib
 - Scatter Plots
 - Histograms
-- Correlation Analysis
-- Data Distribution
-- Subplots
-
-#### Key Takeaways
-- Visualizing relationships between variables.
-- Understanding data distributions.
-- Using histograms to analyze frequency patterns.
-- Creating multiple visualizations in a single figure.
-- Building foundations for Exploratory Data Analysis (EDA).
-
----
-
-### 📅 Day 23 — Seaborn Visualization 🎨
-
-#### Topics Covered
-- Seaborn Basics
-- Violin Plots
+- Seaborn
 - Heatmaps
+- Violin Plots
 - Correlation Analysis
-- Pair Plots
+- Statistical Measures
 
 #### Key Takeaways
-- Creating professional statistical visualizations.
-- Understanding data distributions using violin plots.
-- Analyzing relationships between variables using heatmaps.
+- Created professional data visualizations.
+- Explored relationships between variables.
+- Learned descriptive statistics and outlier detection.
+- Improved Exploratory Data Analysis (EDA) skills.
 
 ---
 
-### 📅 Day 24 — Statistical Data Analysis 🧠
+### 📅 Days 25 – 30: Coding Interview Preparation
 
 #### Topics Covered
+- Palindrome Checking
+- Anagram Validation
+- First Unique Character
+- Two Sum
+- Move Zeroes
+- Missing Number
+- Binary Search
+- Prime Number Optimization
+- Stack Data Structure
+- Group Anagrams
+- Top K Frequent Elements
+- Sliding Window Technique
+
+#### Key Takeaways
+- Solved popular coding interview problems.
+- Applied efficient algorithms and data structures.
+- Improved optimization and analytical thinking.
+- Strengthened technical interview readiness.
+
+---
+
+### 📅 Day 29 — Hashing & Grouping 🔑
+
+#### Topics Covered
+- Hash Maps (Dictionaries)
+- Group Anagrams
+- Frequency Counting
+- Top K Frequent Elements
+
+#### Key Takeaways
+- Used hashing for efficient lookups.
+- Solved grouping and frequency-based problems.
+- Applied dictionaries to optimize algorithms.
+- Improved understanding of interview-focused techniques.
+
+---
+
+### 📅 Day 30 — Final Capstone: Sliding Window 🏆
+
+#### Topics Covered
+- Sliding Window Technique
+- Longest Substring Without Repeating Characters
+- Hash Maps
+- Two Pointer Approach
+- Optimization Techniques
+
+#### Key Takeaways
+- Implemented one of the most important interview algorithms.
+- Learned how to optimize substring problems.
+- Combined hashing and pointers effectively.
+- Completed the 30-Day Python Challenge.
+
+---
+
+## 💡 Skills Developed
+
+### Python Programming
+- Variables & Data Types
+- Functions
+- Loops
+- OOP Basics
+- Exception Handling
+- File Handling
+
+### Data Structures & Algorithms
+- Arrays
+- Strings
+- Dictionaries
+- Sets
+- Stacks
+- Hash Maps
+- Binary Search
+- Sliding Window
+
+### Data Science
+- NumPy
+- Pandas
+- Data Cleaning
+- Data Transformation
+- Missing Value Handling
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Histograms
+- Scatter Plots
+- Heatmaps
+- Statistical Charts
+
+### Statistics
 - Mean
 - Median
 - Mode
@@ -396,112 +214,26 @@ This repository serves as a collection of daily Python exercises, code examples,
 - Percentiles
 - Z-Score Analysis
 
-#### Key Takeaways
-- Understanding measures of central tendency.
-- Measuring data variability and dispersion.
-- Identifying data distribution characteristics.
-- Detecting potential outliers using Z-Scores.
-- Applying statistical concepts to real-world datasets.
-
----
-
-### 📅 Day 25 — String Interview Challenges 🔠
-
-#### Topics Covered
-- Palindrome Checking
-- Anagram Validation
-- Character Frequency Counting
-- First Unique Character
-- String Processing Techniques
-
-#### Key Takeaways
-- Solved common string-based coding interview problems.
-- Applied string manipulation and frequency mapping techniques.
-- Used dictionary-based approaches for efficient solutions.
-- Improved understanding of time and space complexity.
-- Strengthened problem-solving skills for technical interviews.
-
----
-
-### 📅 Day 26 — Array Interview Challenges 📋
-
-#### Topics Covered
-- Two Sum Problem
-- Move Zeroes
-- Missing Number
-- Hash Maps (Dictionaries)
-- In-Place Array Manipulation
-
-#### Key Takeaways
-- Solved popular array-based interview questions.
-- Used hash maps for optimized lookups.
-- Applied in-place algorithms to reduce memory usage.
-- Learned efficient approaches for array manipulation.
-- Improved coding interview preparation and analytical thinking.
-
----
-
-### 📅 Day 27 — Search & Math Optimization 🔍
-
-#### Topics Covered
-- Binary Search
-- Square Root using Binary Search
-- Prime Number Checking
-- Time Complexity Optimization
-- Mathematical Problem Solving
-
-#### Key Takeaways
-- Implemented Binary Search for efficient searching in sorted arrays.
-- Applied Binary Search concepts to solve mathematical problems.
-- Optimized prime number checking using square root logic.
-- Improved understanding of algorithm efficiency and complexity.
-- Strengthened problem-solving and analytical thinking skills.
-
----
-
-### 📅 Day 28 — Data Structures (Stacks) 🏗️
-
-#### Topics Covered
-- Stack Data Structure
-- LIFO Principle
-- Valid Parentheses Problem
-- Backspace String Compare
-- Stack-Based Algorithms
-
-#### Key Takeaways
-- Learned the fundamentals of stack operations.
-- Solved bracket matching problems using stacks.
-- Simulated text editor backspace functionality.
-- Applied stacks to solve real-world interview questions.
-- Improved understanding of data structure applications.
-
----
-
-## 💡 Skills Developed
-- Python Fundamentals
-- Data Structures
-- Lists, Tuples, Sets & Dictionaries
-- Functions & Control Flow
-- File Handling
-- Exception Handling
-- String Manipulation
-- List Comprehensions
-- NumPy Fundamentals
-- Pandas Fundamentals
-- Data Cleaning & Transformation
-- Data Visualization
-- Statistical Analysis
-- Exploratory Data Analysis (EDA)
-- String Algorithms
-- Array Algorithms
-- Binary Search
-- Prime Number Optimization
-- Stack Data Structure
-- Hash Maps & Dictionaries
+### Professional Skills
 - Problem Solving
-- Technical Interview Preparation
+- Logical Thinking
 - Debugging
 - Git & GitHub
+- Technical Interview Preparation
+
+---
+
+## 🛠️ Technology Stack
+
+- Python 3.x
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- SciPy
+- Visual Studio Code
+- Git
+- GitHub
 
 ---
 
@@ -538,50 +270,57 @@ Python_practice/
 ├── day25_string_interview_challenges.py
 ├── day26_array_interview_challenges.py
 ├── day27_search_math_optimization.py
-└── day28_data_structures_stacks.py
+├── day28_data_structures_stacks.py
+├── day29_hashing_grouping.py
+└── day30_sliding_window_capstone.py
 ```
 
 ---
 
-## 📊 Current Progress
+## 🎯 Objectives Achieved
 
-## 📊 Current Progress
+✅ Strengthened Python programming fundamentals
 
-**Completed:** 28 / 30 Days 🚀
+✅ Developed problem-solving and logical thinking skills
 
-**Progress:** 93%
+✅ Learned NumPy and Pandas for data analysis
 
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜ 93%
+✅ Created professional data visualizations
+
+✅ Practiced statistical data analysis
+
+✅ Solved coding interview questions
+
+✅ Built consistency through daily coding
+
+✅ Completed a full 30-Day Python Challenge
+
 ---
 
-## 🚀 Upcoming Topics
+## 📊 Final Progress
 
+**Completed:** 30 / 30 Days 🎉
+
+**Progress:** 100%
+
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩
+
+---
+
+## 🚀 What's Next?
+
+- Machine Learning with Scikit-Learn
 - Feature Engineering
-- Machine Learning Fundamentals
-- Scikit-Learn Basics
-- Model Training
-- Model Evaluation
-- Mini Projects
+- SQL for Data Science
+- Data Visualization Projects
+- End-to-End Data Science Projects
+- Deep Learning
+- NLP Projects
+- Deployment & MLOps
 
 ---
 
-## 🎯 Milestone Achieved
-
-✅ Completed 28 Days of Consistent Python Practice
-
-Topics covered include:
-
-- Core Python Programming
-- Data Structures & Algorithms
-- NumPy & Pandas
-- Data Cleaning & Analysis
-- Data Visualization
-- Statistics
-- Coding Interview Preparation
-
-Only **2 Days Remaining** to complete the **30-Day Python Challenge** 🚀
-
-## ⭐ Connect With Me
+## 👩‍💻 Author
 
 **Athiya Taj**
 
@@ -595,4 +334,4 @@ LinkedIn: https://linkedin.com/in/athiya-taj-a17416394
 
 ---
 
-⭐ **Progress is achieved through consistent daily practice.**
+⭐ **30 Days Completed. Learning Never Stops.**
